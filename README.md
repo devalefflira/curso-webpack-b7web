@@ -14,3 +14,7 @@
 
 - Criação do arquivo de configuração do webpack
 - module.exports: entry / output / mode (production, development)
+
+### Na Aula 3
+
+- Carregamento de Arquivos CSS com Webpack
