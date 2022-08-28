@@ -9,3 +9,8 @@
 - Instalação
 - Uso Simples
 - Criação do primeiro projeto
+
+### Na Aula 2
+
+- Criação do arquivo de configuração do webpack
+- module.exports: entry / output / mode (production, development)
